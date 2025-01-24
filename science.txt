@@ -1,0 +1,15 @@
+Is the Earth the third planet from the Sun?|true
+Do penguins fly?|false
+Can plants perform photosynthesis?|true
+Is the Sun a star?|true
+Do all mammals lay eggs?|false
+Is water composed of hydrogen and oxygen?|true
+Do bees communicate by dancing?|true
+Is the human body made up of more than 60% water?|true
+Do sharks have bones?|false
+Is the Great Wall of China visible from space?|false
+Is lightning hotter than the surface of the Sun?|true
+Do octopuses have three hearts?|true
+Is the Amazon rainforest the largest rainforest in the world?|true
+Can sound travel in space?|false
+Is the cheetah the fastest land animal?|true
